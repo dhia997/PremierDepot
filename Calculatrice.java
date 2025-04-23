@@ -20,5 +20,6 @@ public class Calculatrice {
             throw new ArithmeticException("Erreur : Division par zéro impossible !");
         }
         return a / b;
+        
     }
 }
